@@ -1,1 +1,1 @@
-# YetGen-Core-Python-Education-Program
+#### YetGen Core Python Education Program'ı kapsamında eğitim öncesi ve sonrası uygulamalarımı bu repoda paylaşacağım. :)
